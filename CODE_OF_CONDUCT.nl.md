@@ -10,20 +10,20 @@ We beloven om te handelen en te communiceren op een manier die bijdraagt aan een
 
 Voorbeelden van gedrag dat bijdraagt aan een positieve omgeving voor onze community:
 
-- Empathie en vriendelijkheid tonen tegenover andere mensen
-- Verschillende meningen, standpunten en ervaringen respecteren
-- Constructieve feedback geven en gracieus accepteren
-- Verantwoordelijkheid aanvaarden en excuses aanbieden aan degenen die door onze fouten zijn getroffen,
+* Empathie en vriendelijkheid tonen tegenover andere mensen
+* Verschillende meningen, standpunten en ervaringen respecteren
+* Constructieve feedback geven en gracieus accepteren
+* Verantwoordelijkheid aanvaarden en excuses aanbieden aan degenen die door onze fouten zijn getroffen,
   en leren van de ervaring
-- Focussen op wat het beste is voor de algemene gemeenschap, niet alleen voor ons als individuen
+* Focussen op wat het beste is voor de algemene gemeenschap, niet alleen voor ons als individuen
 
 Voorbeelden van onaanvaardbaar gedrag zijn:
 
-- Het gebruik van geseksualiseerde taal of beelden en seksuele aandacht of toenadering van welke aard dan ook
-- "Trollen", beledigende of denigrerende opmerkingen en persoonlijke- of politieke aanvallen
-- Openbare- of privé-intimidatie
-- Publiceren van persoonlijke informatie van anderen, zoals een fysiek adres of e-mail adres, zonder hun uitdrukkelijke toestemming
-- Ander gedrag dat redelijkerwijs als ongepast zou kunnen worden beschouwd in een professionele setting
+* Het gebruik van geseksualiseerde taal of beelden en seksuele aandacht of toenadering van welke aard dan ook
+* "Trollen", beledigende of denigrerende opmerkingen en persoonlijke- of politieke aanvallen
+* Openbare- of privé-intimidatie
+* Publiceren van persoonlijke informatie van anderen, zoals een fysiek adres of e-mail adres, zonder hun uitdrukkelijke toestemming
+* Ander gedrag dat redelijkerwijs als ongepast zou kunnen worden beschouwd in een professionele setting
 
 ## Handhaving
 
@@ -38,7 +38,8 @@ Voorbeelden van het vertegenwoordigen van onze community zijn onder meer het geb
 
 ## Handhaving
 
-Beledigend, intimiderend of anderszins onaanvaardbaar gedrag kan gerapporteerd worden aan de communityleiders die verantwoordelijk zijn voor handhaving via [CONTACTMETHODE INVOEGEN].
+Beledigend, intimiderend of anderszins onaanvaardbaar gedrag kan gerapporteerd worden aan de communityleiders die verantwoordelijk zijn voor handhaving via nldesignsystem@gebruikercentraal.nl.
+
 Alle klachten zullen onmiddellijk en eerlijk worden beoordeeld en onderzocht.
 
 Alle communityleiders zijn verplicht om de privacy en veiligheid van de melder van een incident te respecteren.
@@ -74,14 +75,6 @@ Het overtreden van deze voorwaarden kan leiden tot een permanente ban.
 
 ## Attributie
 
-Deze gedragscode is een aangepaste versie van de [Contributor Covenant][homepage], versie 2.0, beschikbaar op [https://www.contributor-covenant.org/version/2/0/code_of_conduct.html][v2.0].
+Deze gedragscode is een aangepaste versie van de [Contributor Covenant](https://www.contributor-covenant.org/), versie 2.0, beschikbaar op [https://www.contributor-covenant.org/nl/version/2/0/code_of_conduct/](https://www.contributor-covenant.org/nl/version/2/0/code_of_conduct/).
 
-Richtlijnen voor impact op de community zijn geïnspireerd door [Mozilla's code of conduct enforcement ladder][Mozilla CoC].
-
-Voor antwoorden op veelgestelde vragen over deze gedragscode, zie de veelgestelde vragen op [https://www.contributor-covenant.org/faq][FAQ]. Er zijn vertalingen beschikbaar op [https://www.contributor-covenant.org/translations][translations].
-
-[homepage]: https://www.contributor-covenant.org
-[v2.0]: https://www.contributor-covenant.org/version/2/0/code_of_conduct.html
-[Mozilla CoC]: https://github.com/mozilla/diversity
-[FAQ]: https://www.contributor-covenant.org/faq
-[translations]: https://www.contributor-covenant.org/translations
+Richtlijnen voor impact op de community zijn geïnspireerd door [Mozilla's code of conduct enforcement ladder](https://github.com/mozilla/inclusion).
